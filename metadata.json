@@ -1,0 +1,6 @@
+{
+  "name": "Dawn Child Foundation",
+  "description": "Fostering healthy parent-child relationships, nurturing positive home environments, and providing confidential youth guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

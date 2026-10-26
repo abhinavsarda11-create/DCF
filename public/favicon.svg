@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="dc-fav-sun" x1="10" y1="15" x2="85" y2="85" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ea580c" />
+      <stop offset="40%" stop-color="#f25c27" />
+      <stop offset="75%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#fde047" />
+    </linearGradient>
+    <linearGradient id="dc-fav-ray" x1="40" y1="5" x2="98" y2="55" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ea580c" />
+      <stop offset="60%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#fde047" />
+    </linearGradient>
+  </defs>
+
+  <!-- Sun Rays -->
+  <path d="M 58 22 C 68 12, 82 8, 98 12 C 90 18, 78 22, 65 30 Z" fill="url(#dc-fav-ray)" />
+  <path d="M 68 32 C 80 24, 94 30, 99 38 C 88 42, 78 40, 72 44 Z" fill="url(#dc-fav-ray)" />
+  <path d="M 44 18 C 42 10, 46 4, 50 1 C 51 7, 49 13, 48 18 Z" fill="#ea580c" />
+  <path d="M 32 24 C 29 16, 32 10, 36 5 C 37 11, 35 17, 36 23 Z" fill="#ea580c" />
+  <path d="M 54 18 C 56 10, 62 4, 68 1 C 67 7, 62 13, 58 19 Z" fill="#f59e0b" />
+
+  <!-- Sun Disc -->
+  <circle cx="48" cy="54" r="38" fill="url(#dc-fav-sun)" />
+
+  <!-- Sleeping Baby Outline -->
+  <ellipse cx="44" cy="46" rx="14" ry="15" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M 43 31 C 45 26, 52 27, 50 33 C 48 37, 43 35, 44 32" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
+  <path d="M 35 45 C 38 48, 42 48, 44 45" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
+  <path d="M 32 48 C 33 50, 35 50.5, 37 50" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" />
+  <path d="M 35 53 C 37 55, 40 55, 42 53" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" />
+  <path d="M 36 57 C 33 58, 34 63, 37 64 C 40 65, 42 62, 41 58" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
+  <path d="M 53 46 C 59 52, 60 67, 49 76 C 41 82, 30 79, 27 70 C 25 64, 28 59, 31 57" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" />
+</svg>
